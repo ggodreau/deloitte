@@ -39,7 +39,7 @@ Team 2: Peck, Turner, Meredith, Evan
 Bring your own breakfast and lunch
 
 ## Documents
-[Judging document](https://drive.google.com/file/d/1cHOq2LwCgKEFU4xZLyuJeeLwULa0t8at/view?usp=sharing)
+[Judging document](https://drive.google.com/file/d/1cHOq2LwCgKEFU4xZLyuJeeLwULa0t8at/view?usp=sharing)<br>
 [Presentation submission form](https://docs.google.com/forms/d/1ZqPqmvJ6_NA4paT2-oqx0IFuIXM1PO-p4uLrOpeZ9UI/edit)
 
 ### Prompt
