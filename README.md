@@ -39,11 +39,21 @@ Team 2: Peck, Turner, Meredith, Evan
 Bring your own breakfast and lunch
 
 ## Documents
-[Judging document](https://drive.google.com/file/d/1cHOq2LwCgKEFU4xZLyuJeeLwULa0t8at/view?usp=sharing)<br>
+[Judging document](https://drive.google.com/file/d/1cHOq2LwCgKEFU4xZLyuJeeLwULa0t8at/view?usp=sharing)
 [Presentation submission form](https://docs.google.com/forms/d/1ZqPqmvJ6_NA4paT2-oqx0IFuIXM1PO-p4uLrOpeZ9UI/edit)
 
 ### Prompt
-TBD
+In December 2017, [the Centers for Disease Control and Prevention reported](https://www.cnn.com/2017/12/21/health/us-life-expectancy-study/index.html) that the life expectancy of those living in the United States had decreased for the second year in a row. Currently, Americans are expected to live for 78.6 years. (It is important to note the stunning difference between sexes; American women live an average of 81.1 years whereas American men live an average of 76.1 years.)
+
+Under the Stafford Act, the President may declare a national emergency and make available funding (through FEMA, the Federal Emergency Management Agency) to address the emergency. **Your team will be responsible for designing a federal program to reverse this trend.**
+
+1. Suppose that the President used the Stafford Act to make available one billion dollars in 2018 to address this problem. Considering the various avenues - implementation, research, education, etc. - how would you allocate this money?
+2. Estimate the impact of this money by forecasting its effect on life expectancy and any other metrics you deem relevant.
+
+As your team seeks to tackle this complex problem, there are a few things you might consider:
+- Research states or localities that have higher life expectancy. From this, try to identify factors that might affect life expectancy.
+- When allocating money, are there existing organizations or entities set up that might make for more cost-effective implementation of your program?
+- Estimate the cost, effect, and timeline of the federal program you seek to implement.
 
 ### Presentation
 A seven-minute presentation (you will be cut off!) showcasing your answers to parts 1. and 2. above to a non-technical audience. At the end, you may be asked questions.
